@@ -1,0 +1,36 @@
+body {
+    background-color: #6debe2;
+    font-family: 'arial', sans-serif;
+  }
+  
+  h1 {
+     text-align: center;
+  }
+  
+  
+  #menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  
+  
+  #menu li {
+      display: inline-block;
+      margin-right: 20px;
+  }
+  
+  
+  #menu li a {
+      display: block;
+      color: black;
+      font-weight: bold;
+      padding: 15px 30px;
+      text-decoration: none;
+    }
+  
+  
+  #menu li a:hover {
+    color: #e40000;
+  }

@@ -1,0 +1,44 @@
+{
+    "menu":  [
+      {
+        "name": "Practica 1",
+        "url": "https://galaxia0z.github.io/galaxia00z.github.io/"
+      },
+      {
+        "name": "Practica 2",
+        "url": "https://galaxia0z.github.io/102etiquetasenhtml/"
+      },
+      {
+        "name": "Practica 3",
+        "url": "https://galaxia0z.github.io/personalbanreservas/"
+      },
+      {
+          "name": "Practica 4",
+          "url": "https://galaxia0z.github.io/validadordecedulas/"
+        },
+        {
+          "name": "Practica 5",
+          "url": "#"
+        },
+        {
+          "name": "Practica 6",
+          "url": "#"
+        },
+        {
+          "name": "Practica 7",
+          "url": "https://galaxia0z.github.io/Agendar-QR/"
+        },
+        {
+          "name": "Practica 8",
+          "url": "https://galaxia0z.github.io/formulariodegraficos/"
+        },
+        {
+          "name": "Practica 9 ",
+          "url": "#"
+        },
+        {
+          "name": "Proyecto Final 10",
+          "url": "#"
+        }
+     ]
+  }
